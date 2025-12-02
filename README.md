@@ -1,1 +1,1 @@
-github-readme-stats.vercel.app/api?username={zico24820-dev}&show_icons=true
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apizico24820-devanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
